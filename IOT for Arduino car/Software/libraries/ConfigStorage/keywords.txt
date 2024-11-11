@@ -1,0 +1,35 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+ConfigStorage
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+CONFIG_STORAGE_VERSION  LITERAL1
+CONFIGSTORAGE_VERSION LITERAL1
+
+CONFIG_STORAGE_VERSION_MAJOR  LITERAL1
+CONFIG_STORAGE_VERSION_MINOR  LITERAL1
+CONFIG_STORAGE_VERSION_PATCH  LITERAL1
+CONFIG_STORAGE_VERSION_INT  LITERAL1
+
+CS_USE_LITTLEFS  LITERAL1
+CS_USE_SPIFFS  LITERAL1
+FileFS  LITERAL1
+FS_Name LITERAL1
+
+CONFIGSTORAGE_DEBUG LITERAL1
